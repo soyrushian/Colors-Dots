@@ -1,0 +1,18 @@
+{
+  "name": "colors-dots",
+  "version": "1.0.0",
+  "description": "Console message",
+  "main": "lib/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/index.js",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Colors-Dots"
+  },
+  "author": "https://github.com/soyrushian",
+  "license": "MIT",
+  "keywords": []
+}

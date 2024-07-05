@@ -1,3 +1,9 @@
+# Customs
+test/index2.js
+test/v1.js
+.gitignore
+.gitattributes
+
 # Logs
 logs
 *.log
