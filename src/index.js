@@ -39,4 +39,4 @@ class Colors {
  */
 const colors = (text, style) => new Colors().colors(text, style);
 
-module.exports = colors
+export default colors
