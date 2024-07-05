@@ -1,12 +1,12 @@
 {
   "name": "colors-dots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Console message",
-  "main": "lib/index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "node test/index.js",
-    "start": "node lib/index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
