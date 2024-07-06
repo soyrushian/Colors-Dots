@@ -1,6 +1,6 @@
 {
   "name": "colors-dots",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Console message",
   "main": "src/index.js",
   "type": "module",
